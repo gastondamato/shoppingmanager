@@ -1,4 +1,4 @@
-# simple shopping list
+# A simple shopping list app
 
 Roadmap:
 - log in with unique user
